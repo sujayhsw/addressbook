@@ -16,4 +16,5 @@ INSTRUCTIONS FOR EXECUTION
       gradlew clean build
 
    - after successful bundling as jar, Application can be executed using following command,
+   
       java -ea -jar addressbook-1.0.jar <Addressbook-input-file-path>
