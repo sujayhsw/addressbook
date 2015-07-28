@@ -17,4 +17,6 @@ INSTRUCTIONS FOR EXECUTION
 
    - after successful bundling as jar, Application can be executed using following command,
    
-      java -ea -jar addressbook-1.0.jar <Addressbook-input-file-path>
+      java -ea -jar addressbook-1.0.jar 
+     
+	  You can provide addressbook file as argument or it will load sample addressbook.

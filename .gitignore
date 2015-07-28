@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Eclipse template
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+
+### Gradle template
+.gradle
+build/
+target
+
